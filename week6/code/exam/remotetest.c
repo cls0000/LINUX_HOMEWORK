@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include"/home/qiuwen/LinuxHomework/week6/code/staticlib/staticlib.h"
+#include"../staticlib/staticlib.h"
 void initarray(int *a,int n);
 void showarray(int *a,int n);
  int main(){
