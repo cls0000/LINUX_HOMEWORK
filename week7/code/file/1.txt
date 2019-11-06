@@ -1,3 +1,2 @@
-1234  stdout
-ABCDEF
-ABCDEF
+1234 stdout
+ABCDEFABCDEF

@@ -24,4 +24,3 @@ printf("%s\n",getenv("PATH"));
 return 0;
 
 }
-
